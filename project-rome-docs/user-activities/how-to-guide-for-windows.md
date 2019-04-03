@@ -1,0 +1,7 @@
+# <a name="implementing-user-activities-for-windows"></a><span data-ttu-id="4340e-101">Windows에 대 한 사용자 활동 구현</span><span class="sxs-lookup"><span data-stu-id="4340e-101">Implementing User Activities for Windows</span></span>
+
+<span data-ttu-id="4340e-102">Windows 관련된 방법 및 프로젝트 로마에 대 한 API 페이지에는 Microsoft docs 사이트의 UWP 섹션에 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="4340e-102">The Windows related how-to and API pages for Project Rome are included in the UWP section of the Microsoft docs site.</span></span> <span data-ttu-id="4340e-103">사용자 활동에 대 한 Windows 앱을 구현 하는 방법을 알아보려면 다음 문서를 확인해 보세요.</span><span class="sxs-lookup"><span data-stu-id="4340e-103">Check out the following articles to learn how to implement User Activities for Windows apps:</span></span>
+
+[<span data-ttu-id="4340e-104">Windows에 대 한 안내 하는 방법</span><span class="sxs-lookup"><span data-stu-id="4340e-104">How to guide for Windows</span></span>](https://docs.microsoft.com/windows/uwp/launch-resume/useractivities)
+
+[<span data-ttu-id="4340e-105">Windows에 대 한 API 참조</span><span class="sxs-lookup"><span data-stu-id="4340e-105">API reference for Windows</span></span>](https://docs.microsoft.com/uwp/api/windows.applicationmodel.useractivities)

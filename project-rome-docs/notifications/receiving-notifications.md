@@ -1,0 +1,7 @@
+# <a name="receiving-notifications-using-the-project-rome-sdk"></a><span data-ttu-id="93892-101">프로젝트 로마 SDK를 사용 하 여 알림을 수신 합니다.</span><span class="sxs-lookup"><span data-stu-id="93892-101">Receiving notifications using the Project Rome SDK</span></span>
+
+<span data-ttu-id="93892-102">다른 개발 플랫폼에서 MSGraph 알림을 받는 프로세스를 맞춥니다.</span><span class="sxs-lookup"><span data-stu-id="93892-102">The process of receiving MSGraph notifications is aligned across different development platforms.</span></span> <span data-ttu-id="93892-103">SDK 언어 차이 따라 별도 지침 했습니다.</span><span class="sxs-lookup"><span data-stu-id="93892-103">Based on the SDK language difference, we have separate guidelines.</span></span> <span data-ttu-id="93892-104">앱에서 알림을 검색을 사용 하도록 설정 하는 방법을 알아보려면 아래 플랫폼을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="93892-104">Select a platform below to learn how to enable notification retrieval in your app.</span></span>
+
+* [<span data-ttu-id="93892-105">창</span><span class="sxs-lookup"><span data-stu-id="93892-105">Windows</span></span>](how-to-guide-for-windows.md)
+* [<span data-ttu-id="93892-106">Android</span><span class="sxs-lookup"><span data-stu-id="93892-106">Android</span></span>](how-to-guide-for-android.md)
+* [<span data-ttu-id="93892-107">iOS</span><span class="sxs-lookup"><span data-stu-id="93892-107">iOS</span></span>](how-to-guide-for-ios.md)
