@@ -1,0 +1,13 @@
+# <a name="usernotifications-namespace"></a><span data-ttu-id="d710a-101">UserNotifications 네임스페이스</span><span class="sxs-lookup"><span data-stu-id="d710a-101">UserNotifications namespace</span></span>
+```
+ConnectedDevicesUserDataUserActivities.h
+```
+
+<span data-ttu-id="d710a-102">UserActivities 네임스페이스에는 애플리케이션이 Windows 스타일의 사용자 활동을 만들고 게시할 수 있게 해주는 API가 포함되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="d710a-102">The UserActivities namespace contains APIs that allow applications to create and publish Windows-style User Activities.</span></span> <span data-ttu-id="d710a-103">사용자 활동 기능에 대한 자세한 내용은 [UWP UserActivities 네임스페이스](https://docs.microsoft.com/uwp/api/windows.applicationmodel.useractivities)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="d710a-103">For more information on the User Activities feature, see the [UWP UserActivities namespace](https://docs.microsoft.com/uwp/api/windows.applicationmodel.useractivities).</span></span>
+
+#### <a name="mcduseractivitymcduseractivitymd"></a>[<span data-ttu-id="d710a-104">MCDUserActivity</span><span class="sxs-lookup"><span data-stu-id="d710a-104">MCDUserActivity</span></span>](MCDUserActivity.md)
+#### <a name="mcduseractivityattributionmcduseractivityattributionmd"></a>[<span data-ttu-id="d710a-105">MCDUserActivityAttribution</span><span class="sxs-lookup"><span data-stu-id="d710a-105">MCDUserActivityAttribution</span></span>](MCDUserActivityAttribution.md)
+#### <a name="mcduseractivitychannelmcduseractivitychannelmd"></a>[<span data-ttu-id="d710a-106">MCDUserActivityChannel</span><span class="sxs-lookup"><span data-stu-id="d710a-106">MCDUserActivityChannel</span></span>](MCDUserActivityChannel.md)
+#### <a name="mcduseractivitysessionmcduseractivitysessionmd"></a>[<span data-ttu-id="d710a-107">MCDUserActivitySession</span><span class="sxs-lookup"><span data-stu-id="d710a-107">MCDUserActivitySession</span></span>](MCDUserActivitySession.md)
+#### <a name="mcduseractivitysessionhistoryitemmcduseractivitysessionhistoryitemmd"></a>[<span data-ttu-id="d710a-108">MCDUserActivitySessionHistoryItem</span><span class="sxs-lookup"><span data-stu-id="d710a-108">MCDUserActivitySessionHistoryItem</span></span>](MCDUserActivitySessionHistoryItem.md)
+#### <a name="mcduseractivityvisualelementsmcduseractivityvisualelementsmd"></a>[<span data-ttu-id="d710a-109">MCDUserActivityVisualElements</span><span class="sxs-lookup"><span data-stu-id="d710a-109">MCDUserActivityVisualElements</span></span>](MCDUserActivityVisualElements.md)
