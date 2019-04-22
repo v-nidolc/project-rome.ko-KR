@@ -3,10 +3,10 @@ title: MCDRemoteLauncher
 description: URI를 사용 하 여 원격 장치에 앱을 실행 하는 데 사용 되는 클래스입니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: aa0211c1edc33e8a277c4954d94fbcbb6565c923
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58907385"
 ---
 # <a name="class-mcdremotelauncher"></a>클래스 `MCDRemoteLauncher` 

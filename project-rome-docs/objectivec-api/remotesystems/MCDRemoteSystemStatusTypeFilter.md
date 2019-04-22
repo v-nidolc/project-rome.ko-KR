@@ -3,10 +3,10 @@ title: MCDRemoteSystemStatusTypeFilter
 description: 원격 시스템 가용성 상태 형식에 따라 필터링 하는 데 사용 되는 클래스입니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 201570c16a8eb9cf1a31e450b3408c8ab255fe1a
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58907125"
 ---
 # <a name="class-mcdremotesystemstatustypefilter"></a>클래스 `MCDRemoteSystemStatusTypeFilter`
