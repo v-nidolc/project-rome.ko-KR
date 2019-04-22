@@ -3,11 +3,11 @@ title: MCDRemoteSystemWatcherError
 description: 검색 프로세스 중에 원격 시스템 감시자 개체에서 발생 한 오류가 describe는 값을 포함 합니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 3f65614396377b154b2a37493b8271ac54afb6fd
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907705"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801725"
 ---
 # <a name="enum-mcdremotesystemwatchererror"></a>열거형 `MCDRemoteSystemWatcherError` 
 

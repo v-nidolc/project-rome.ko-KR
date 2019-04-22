@@ -3,11 +3,11 @@ title: MCDConnectedDevicesAccount
 description: 이 클래스에는 앱에서 알려진 단일 사용자 계정을 나타냅니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: e9b43bb76e46f3a027247b1d4d564c6e1571bae4
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58909155"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59800935"
 ---
 # <a name="class-mcdconnecteddevicesaccount"></a>클래스 `MCDConnectedDevicesAccount`
 

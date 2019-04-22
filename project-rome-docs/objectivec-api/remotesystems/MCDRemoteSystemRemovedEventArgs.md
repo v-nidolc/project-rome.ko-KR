@@ -3,11 +3,11 @@ title: MCDRemoteSystemRemovedEventArgs
 description: RemoteSystemWatcher RemoteSystemRemoved 이벤트에 대 한 이벤트 인수입니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 652107473e7b716493483057b090f558d82425a2
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907045"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801735"
 ---
 # <a name="class-mcdremotesystemremovedeventargs"></a>클래스 `MCDRemoteSystemRemovedEventArgs` 
 

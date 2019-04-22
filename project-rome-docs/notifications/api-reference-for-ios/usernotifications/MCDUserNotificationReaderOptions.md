@@ -3,10 +3,10 @@ title: MCDUserNotificationReaderOptions
 description: 이 클래스를 사용 하면 앱 알림 판독기만 새 사용자 알림 및 존재 하지 않는 알림 업데이트를 받는 작업과 같은 옵션을 제공 합니다.
 keywords: microsoft, windows, 그래프 알림, iOS 방법 도움말, 방법 iPhone
 ms.openlocfilehash: d5ea9072af0f35f614557192ef782754c4054b22
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58907985"
 ---
 # <a name="class-mcdusernotificationreaderoptions"></a>클래스 `MCDUserNotificationReaderOptions`

@@ -3,11 +3,11 @@ title: UserNotificationReaderOptions
 description: 이 클래스를 사용 하면 앱 알림 판독기만 새 사용자 알림 및 존재 하지 않는 알림 업데이트를 받는 작업과 같은 옵션을 제공 합니다.
 keywords: microsoft, windows, 그래프 알림 및 방법 Windows
 ms.openlocfilehash: dda9187dccd013f719d564f62b51fd9ac7be8444
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58909685"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801385"
 ---
 # <a name="class-usernotificationreaderoptions"></a>클래스 `UserNotificationReaderOptions`
 

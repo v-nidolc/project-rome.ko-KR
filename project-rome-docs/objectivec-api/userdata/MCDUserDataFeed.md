@@ -3,10 +3,10 @@ title: MCDUserDataFeed
 description: 이 클래스는 연결 된 장치 플랫폼 백 엔드를 사용 하 여 사용자 고유의 데이터를 동기화 하는 일을 담당 합니다.
 keywords: microsoft, windows, 사용자 활동, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 66898563bdad8adb2f1ebfe75f010cd5ef1d9ca2
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58908995"
 ---
 # <a name="class-mcduserdatafeed"></a>클래스 `MCDUserDataFeed`

@@ -3,11 +3,11 @@ title: MCDUserNotificationReadStateFilter
 description: 알림을 상태별 읽기 (필터링 된 알림 검색)를 분류 하는 값을 포함 합니다.
 keywords: microsoft, windows, 그래프 알림, iOS 방법 도움말, 방법 iPhone
 ms.openlocfilehash: 19da2f22e88dba5617ee60169c06552191aebe7d
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907695"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801345"
 ---
 # <a name="enum-mcdusernotificationreadstatefilter"></a>열거형 `MCDUserNotificationReadStateFilter`
 

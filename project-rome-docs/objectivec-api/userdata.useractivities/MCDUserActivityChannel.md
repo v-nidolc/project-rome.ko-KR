@@ -3,10 +3,10 @@ title: MCDUserActivityChannel
 description: 이 클래스에 추가 하 고 응용 프로그램에 대 한 사용자 활동의 쿼리 처리 합니다.
 keywords: microsoft, windows, 사용자 활동, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: b047af1da3ba79be88a53cf589c3894892b01ef4
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58907805"
 ---
 # <a name="class-mcduseractivitychannel"></a>클래스 `MCDUserActivityChannel`

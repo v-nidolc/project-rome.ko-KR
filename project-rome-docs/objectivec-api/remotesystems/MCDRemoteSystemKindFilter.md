@@ -3,11 +3,11 @@ title: MCDRemoteSystemKindFilter
 description: 원격 시스템 장치 종류에 따라 필터링 하는 데 사용 되는 클래스입니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 162e8f881b532fae50f6d301149b50c5ddf344b5
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907265"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801335"
 ---
 # <a name="class-mcdremotesystemkindfilter"></a>클래스 `MCDRemoteSystemKindFilter` 
 

@@ -3,11 +3,11 @@ title: MCDRemoteLauncherOptions
 description: 원격 실행 기능에 대 한 옵션을 나타내는 데 사용 되는 클래스입니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 628bf1659dfb4ce50e20631622d8a78a322bb2f5
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907335"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801265"
 ---
 # <a name="class-mcdremotelauncheroptions"></a>클래스 `MCDRemoteLauncherOptions` 
 

@@ -3,11 +3,11 @@ title: MCDRemoteSystemAppRegistrationPublishStatus
 description: URI를 사용 하 여 원격 앱 시작의 상태를 설명 하는 값을 포함 합니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 32c3e473938925f12838bf6dc5ccc3e98a3394a6
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907545"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59800585"
 ---
 # <a name="enum-mcdremotesystemappregistrationpublishstatus"></a>열거형 `MCDRemoteSystemAppRegistrationPublishStatus`
 

@@ -3,11 +3,11 @@ title: MCDEvent
 description: 이 인터페이스는 단순 이벤트 모델을 제공합니다. 이벤트는 EventListeners에서 사용 하는 항목을 생성 합니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: eabe9464a104593b06460153ed30f42f7cc103eb
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907255"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801395"
 ---
 # <a name="class-mcdevent"></a>클래스 `MCDEvent` 
 

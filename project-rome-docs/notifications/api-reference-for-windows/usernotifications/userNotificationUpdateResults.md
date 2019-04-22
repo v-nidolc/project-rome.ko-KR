@@ -3,11 +3,11 @@ title: UserNotificationUpdateResults
 description: 이 클래스는 업데이트 알림을 시도의 상태를 설명 합니다.
 keywords: microsoft, windows, 그래프 알림 방법 windows
 ms.openlocfilehash: 37bb1863141a68fb5788570903f30a89c4b4bad3
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907295"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801655"
 ---
 # <a name="class-usernotificationupdateresults"></a>클래스 `UserNotificationUpdateResults`
 ```C#

@@ -3,10 +3,10 @@ title: MCDUserNotification
 description: 이 클래스에는 그래프 알림을 통해 앱 서버에서 게시 한 앱 클라이언트에서 받은 사용자 알림을 나타냅니다.
 keywords: microsoft, ios, 그래프 알림, ios 방법 도움말, 방법 iphone
 ms.openlocfilehash: 5ca1360c34e2bf9aa5d9847b8df2c462e2956b31
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58907895"
 ---
 # <a name="class-mcdusernotification"></a>클래스 `MCDUserNotification`

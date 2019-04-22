@@ -3,11 +3,11 @@ title: MCDRemoteSystemAuthorizationKindFilter
 description: 권한 부여 유형을 기반으로 하는 원격 시스템을 필터링 하는 데 사용 되는 클래스입니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: da68c7a0eacd2018332d5e2fe5c8e3c906f473f8
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907645"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801255"
 ---
 # <a name="class-mcdremotesystemauthorizationkindfilter"></a>클래스 `MCDRemoteSystemAuthorizationKindFilter` 
 

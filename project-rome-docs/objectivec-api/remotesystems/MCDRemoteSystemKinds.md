@@ -3,11 +3,11 @@ title: MCDRemoteSystemKinds
 description: 원격 시스템 장치 유형을 나타내는 문자열 필드를 포함 합니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 701bc4662fc8d46009889645bab6e4ee83fdb959
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58909565"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801275"
 ---
 # <a name="class-mcdremotesystemkinds"></a>클래스 `MCDRemoteSystemKinds` 
 

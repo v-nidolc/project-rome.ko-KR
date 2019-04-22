@@ -3,11 +3,11 @@ title: MCDStatelessAppServiceResponseStatus
 description: (메시지 데이터를 성공적으로 배달) 여부 다른 하나의 app service에서 보낸 메시지의 상태를 설명 하는 값을 포함 합니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 9d01e892861c8551b7b3e41d1b227f65f07d752a
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907875"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801715"
 ---
 # <a name="enum-mcdstatelessappserviceresponsestatus"></a>열거형 `MCDStatelessAppServiceResponseStatus`
 

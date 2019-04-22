@@ -3,11 +3,11 @@ title: MCDConnectedDevicesNotificationRegistration
 description: 이 클래스는 푸시 알림 서비스 (일부 프로젝트 로마 시나리오에 필요)를 사용 하 여 앱의 등록을 나타냅니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 38cd140538d6e6dabddda39ba98f736fc708ade7
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58908885"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801435"
 ---
 # <a name="class-mcdconnecteddevicesnotificationregistration"></a>클래스 `MCDConnectedDevicesNotificationRegistration` 
 

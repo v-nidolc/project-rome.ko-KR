@@ -3,11 +3,11 @@ title: MCDUserNotificationUserActionStateFilter
 description: 알림을 상태별 사용자 작업 (필터링 된 알림 검색)를 분류 하는 값을 포함 합니다.
 keywords: microsoft, windows, 그래프 알림, iOS 방법 도움말, 방법 iPhone
 ms.openlocfilehash: 41719d76e03fd6def57c8f77f9ab6956811e8803
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907275"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59800565"
 ---
 # <a name="enum-mcdusernotificationuseractionstatefilter"></a>열거형 `MCDUserNotificationUserActionStateFilter`
 

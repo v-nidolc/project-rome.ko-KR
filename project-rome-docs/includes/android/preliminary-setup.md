@@ -5,11 +5,11 @@ ms.topic: include
 ms.assetid: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: e2a3dcbff4594a7886a14f90058bb814e85ff39d
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58909375"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59804659"
 ---
 ## <a name="preliminary-setup-for-the-connected-devices-platform-and-notifications"></a>알림과 연결 된 장치 플랫폼에 대 한 예비 설치
 

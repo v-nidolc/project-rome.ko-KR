@@ -3,11 +3,11 @@ title: MCDUserNotificationReader
 description: 이 클래스는 들어오는 새 사용자 알림 및 사용자 알림을 업데이트 합니다. 또한 연결 된 장치 플랫폼에 유지 되는 알림을 사용자 컬렉션에 대 한 액세스를 제공 합니다.
 keywords: microsoft, windows, 릴레이 장치, iOS 방법 도움말, 방법 iPhone
 ms.openlocfilehash: 486e98c30c82a7607569d252c84e4314738df6c9
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58909025"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59800735"
 ---
 # <a name="class-mcdusernotificationreader"></a>클래스 `MCDUserNotificationReader`
 

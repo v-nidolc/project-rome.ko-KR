@@ -3,11 +3,11 @@ title: MCDConnectedDevicesNotificationRegistrationStatus
 description: 클라우드 등록의 상태를 통신 하는 데 사용 하는 값입니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: c7d770c73479afb949a4917b5457b12e23b78698
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58909135"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801365"
 ---
 # <a name="class-mcdconnecteddevicesnotificationregistrationstatus"></a>클래스 `MCDConnectedDevicesNotificationRegistrationStatus` 
 

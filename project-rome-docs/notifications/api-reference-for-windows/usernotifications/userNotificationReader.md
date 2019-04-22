@@ -3,11 +3,11 @@ title: UserNotificationReader
 description: 이 클래스는 들어오는 새 사용자 알림 및 사용자 알림을 업데이트 합니다. 또한 연결 된 장치 플랫폼에 유지 되는 알림을 사용자 컬렉션에 대 한 액세스를 제공 합니다.
 keywords: microsoft, windows, 사용자 알림 방법 windows
 ms.openlocfilehash: 3a929939be7e2dd9ecd9db65322efadaea3013d5
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907375"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801425"
 ---
 # <a name="class-usernotificationreader"></a>클래스 `UserNotificationReader`
 

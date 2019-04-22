@@ -3,11 +3,11 @@ title: UserNotification
 description: 이 클래스에는 그래프 알림을 통해 앱 서버에서 게시 한 앱 클라이언트에서 받은 사용자 알림을 나타냅니다.
 keywords: microsoft, windows, 그래프 알림 방법 windows
 ms.openlocfilehash: 5f0489b9db0e644cd0dedd14b07bf2357615419f
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907965"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801595"
 ---
 # <a name="class-usernotification"></a>클래스 `UserNotification`
 

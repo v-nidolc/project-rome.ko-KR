@@ -3,11 +3,11 @@ title: MCDStatelessAppServiceResponse
 description: MCDAppServiceConnection.sendStatelessMessageAsync에 대 한 이전 호출에 대 한 응답에서 클라이언트 앱에 원격 app service에서 전달 된 메시지를 나타냅니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: 4e650b1b114a3cb05b2d9b03b833b9e1cdd6607c
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907235"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801625"
 ---
 # <a name="class-mcdstatelessappserviceresponse"></a>클래스 `MCDStatelessAppServiceResponse` 
 

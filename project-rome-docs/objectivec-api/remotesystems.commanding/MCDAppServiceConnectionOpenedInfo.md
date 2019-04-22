@@ -3,11 +3,11 @@ title: MCDAppServiceConnectionOpenedInfo
 description: 이 클래스는 원격 장치 로컬 앱 서비스에 대 한 연결을 열 때 발생 하는 MCDAppServiceProvider.connectionDidOpen 이벤트에 대 한 데이터를 제공 합니다.
 keywords: microsoft, windows, iOS, iPhone, objectiveC, 연결 된 장치, 프로젝트 로마
 ms.openlocfilehash: b700c95d7ab093b47a94c856c25b946fc5df12d7
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58907555"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801075"
 ---
 # <a name="class-mcdappserviceconnectionopenedinfo"></a>클래스 `MCDAppServiceConnectionOpenedInfo` 
 
