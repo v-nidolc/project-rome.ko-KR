@@ -4,11 +4,11 @@ description: 로컬 디바이스를 사용하여 원격 장치에서 작업을 �
 ms.topic: overview
 ms.custom: seodec2018
 ms.openlocfilehash: ac8df447549b643207f796e0eeca05012c210897
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "58906915"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "59801465"
 ---
 # <a name="device-relay"></a>장치 릴레이
 

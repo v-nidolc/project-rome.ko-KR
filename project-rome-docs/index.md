@@ -4,10 +4,10 @@ description: 프로젝트 로마를 사용하여 Windows 10 애플리케이션�
 ms.topic: overview
 ms.custom: seodec2018, RS5
 ms.openlocfilehash: 57f6ce29730bd296ee623251d8ef619b114f944b
-ms.sourcegitcommit: 75680b384946e11257bb2a33044a3172dec5220e
+ms.sourcegitcommit: 945a0f4bda02e3b4eb9a665379c2af9bd5285a53
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58906745"
 ---
 # <a name="project-rome"></a>프로젝트 로마
